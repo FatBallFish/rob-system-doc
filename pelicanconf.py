@@ -1,6 +1,6 @@
 AUTHOR = 'FatBallFish'
 SITENAME = 'RobSystem文档'
-SITEURL = ''
+SITEURL = 'https://fatballfish.github.io/rob-system-doc/'
 
 PATH = 'content'
 
